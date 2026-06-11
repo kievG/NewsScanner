@@ -217,6 +217,13 @@ compliance. Do not use this project to build a commercial or ad-supported servic
 to run a central backend that redistributes Google News content, or with Google's
 trademarks/logos.
 
+## Privacy
+
+The app keeps data **on-device** — no backend, no accounts, no analytics, no ads.
+See [PRIVACY.md](PRIVACY.md) for what stays local and what's sent to Google News /
+Open-Meteo / Apple's geocoder. If you publish to the App Store, you can use the
+GitHub URL of `PRIVACY.md` as your required privacy-policy link.
+
 ## Attribution
 
 - **Weather data** by [Open-Meteo](https://open-meteo.com/), licensed under
