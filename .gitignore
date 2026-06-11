@@ -1,0 +1,18 @@
+# Xcode / Swift
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+.swiftpm/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+
+# Local generated artifacts
+makeicon.swift.o
