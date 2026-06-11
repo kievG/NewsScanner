@@ -13,6 +13,3 @@ xcuserdata/
 
 # macOS
 .DS_Store
-
-# Local generated artifacts
-makeicon.swift.o
